@@ -27,3 +27,5 @@ folium>=0.15.0
 # Notebook Environment
 jupyterlab>=4.0.0
 ipykernel>=6.28.0
+
+pyarrow>=14.0.0
